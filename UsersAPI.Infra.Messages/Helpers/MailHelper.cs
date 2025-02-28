@@ -69,3 +69,72 @@ namespace UsersAPI.Infra.Messages.Helpers
 
 
 
+
+/*
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Mensagem Melhorada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .logo {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .logo img {
+            max-width: 150px;
+        }
+        h1 {
+            color: #007b5e;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 1em;
+            color: #fff;
+            background-color: #007b5e;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #005f46;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="https://www.gestaoemmolduras.com.br/Images/logo-1.png" alt="Logo">
+        </div>
+        <h1>Sua Mensagem Melhorada</h1>
+        <p>Este é um exemplo de como você pode melhorar o conteúdo da sua mensagem utilizando estilos CSS. Você pode personalizar as cores, fontes e o layout conforme suas necessidades.</p>
+        <a href="#" class="button">Clique Aqui</a>
+    </div>
+</body>
+</html>
+ 
+*/
